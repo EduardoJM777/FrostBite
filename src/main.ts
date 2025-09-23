@@ -12,8 +12,8 @@ import { Pedidos } from './app/pedidos/pedidos';
   imports: [CadastroUsuario, TelaLogin, Pedidos],
   template: `
     
-    // <app-tela-login></app-tela-login>
-    // <app-cadastro-usuario></app-cadastro-usuario>
+    <!-- <app-tela-login></app-tela-login>
+    <app-cadastro-usuario></app-cadastro-usuario> -->
     <app-pedidos></app-pedidos>
 
   `,
